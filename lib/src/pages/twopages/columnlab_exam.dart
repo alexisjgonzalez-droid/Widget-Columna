@@ -10,7 +10,7 @@ class ColumnExam extends StatelessWidget{
         Text("Utilizando Column en flutter"),
         Expanded(
           child: FittedBox(
-            child: Image.asset('assets/mi_imagen.png'), 
+            child: Image.asset('assets/vs.avif'), 
           ),
         ),
       ],
